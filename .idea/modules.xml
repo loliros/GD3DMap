@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/MapGDDemo.iml" filepath="$PROJECT_DIR$/MapGDDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GD3DMap.iml" filepath="$PROJECT_DIR$/GD3DMap.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
