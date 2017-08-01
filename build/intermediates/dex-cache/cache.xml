@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\Android\MapGDDemo\app\build\intermediates\exploded-aar\com.android.support\support-compat\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="true"
+        revision="26.0.0"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="D:\Android\MapGDDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-26.0.0-alpha1_5508273cc22c595e3016f4495c1fc49b1b24051d\classes.dex" />
+    </item>
+    <item
+        jar="D:\Android\MapGDDemo\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="true"
+        revision="26.0.0"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="D:\Android\MapGDDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-26.0.0-alpha1_23df381c1df51c9e84a90d3d4787abfb9c4e679f\classes.dex" />
+    </item>
+    <item
+        jar="D:\Android\MapGDDemo\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="true"
+        revision="26.0.0"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="D:\Android\MapGDDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-26.0.0-alpha1_448668c249dff2cc1336228c01ff21f3c91a6862\classes.dex" />
+    </item>
+    <item
+        jar="D:\Android\MapGDDemo\app\build\intermediates\exploded-aar\com.android.support\support-v4\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="true"
+        revision="26.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\Android\MapGDDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-26.0.0-alpha1_f05e99cde288ba2170adc6a09bb066675d26db3d\classes.dex" />
+    </item>
+    <item
+        jar="D:\Android\MapGDDemo\app\libs\Android_Map3D_SDK_V5.2.1_20170630.jar"
+        jumboMode="true"
+        revision="26.0.0"
+        sha1="031c03ab465147953d1d9282887e5df2d17768b8">
+        <dex dex="D:\Android\MapGDDemo\app\build\intermediates\transforms\dex\debug\folders\1000\2\Android_Map3D_SDK_V5.2.1_20170630_b261039d24b91bf4032b381f01916a94eb02e7dc\classes.dex" />
+    </item>
+    <item
+        jar="D:\zpark\AndroidStudio\sdk\extras\android\m2repository\com\android\support\support-annotations\26.0.0-alpha1\support-annotations-26.0.0-alpha1.jar"
+        jumboMode="true"
+        revision="26.0.0"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="D:\Android\MapGDDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-26.0.0-alpha1_ff10f62353b17708b2a5d5b5a1b4ecd9cdc1a9f9\classes.dex" />
+    </item>
+    <item
+        jar="D:\Android\MapGDDemo\app\libs\AMap_Search_V5.2.1_20170630.jar"
+        jumboMode="true"
+        revision="26.0.0"
+        sha1="d724566d4793345f4de3654286ca47492a8b4398">
+        <dex dex="D:\Android\MapGDDemo\app\build\intermediates\transforms\dex\debug\folders\1000\2\AMap_Search_V5.2.1_20170630_a48650a87a26528ee035522a91c6820efb8852b6\classes.dex" />
+    </item>
+    <item
+        jar="D:\Android\MapGDDemo\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="26.0.0"
+        sha1="71d4ace0b8a1bbcf87e1715c76c0d917e4a5fde5">
+        <dex dex="D:\Android\MapGDDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_2d4ac4ef4b80f37063ed97c3987c61b8fed6f7a2\classes.dex" />
+    </item>
+    <item
+        jar="D:\Android\MapGDDemo\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="true"
+        revision="26.0.0"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="D:\Android\MapGDDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-26.0.0-alpha1_c1174bcee5bc813deb896e7b1c8043f1fbd8968d\classes.dex" />
+    </item>
+    <item
+        jar="D:\Android\MapGDDemo\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="true"
+        revision="26.0.0"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="D:\Android\MapGDDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-26.0.0-alpha1_70f968a9f7320d895b46c6f0f4d9fa12f2157e01\classes.dex" />
+    </item>
+    <item
+        jar="D:\Android\MapGDDemo\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="true"
+        revision="26.0.0"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="D:\Android\MapGDDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-26.0.0-alpha1_7ca761d8f464027fdab8ece7cdffa7999344cbdf\classes.dex" />
+    </item>
+    <item
+        jar="D:\Android\MapGDDemo\app\build\intermediates\exploded-aar\com.android.support\support-fragment\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="true"
+        revision="26.0.0"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="D:\Android\MapGDDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-26.0.0-alpha1_7add68da27768d8a0e753746ba578fcfa6435f4f\classes.dex" />
+    </item>
+    <item
+        jar="D:\Android\MapGDDemo\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="26.0.0"
+        sha1="1e4cd9db5c6d97b25502b3cb3933dec9601aa3ca">
+        <dex dex="D:\Android\MapGDDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_5445d0223a5e129baab73d9107201f5f03f47f1e\classes.dex" />
+    </item>
+    <item
+        jar="D:\Android\MapGDDemo\app\libs\AMap_Location_V3.4.1_20170629.jar"
+        jumboMode="true"
+        revision="26.0.0"
+        sha1="ebe380d6da0d59db86ff68c843b3b8467ab26506">
+        <dex dex="D:\Android\MapGDDemo\app\build\intermediates\transforms\dex\debug\folders\1000\2\AMap_Location_V3.4.1_20170629_5d8d2126ce491f7cc7f07a287fcc9f683e9890e9\classes.dex" />
+    </item>
+    <item
+        jar="D:\Android\MapGDDemo\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="true"
+        revision="26.0.0"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="D:\Android\MapGDDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-26.0.0-alpha1_f7433b1114b95d9a8d4044ce9c7ed5948158313a\classes.dex" />
+    </item>
+    <item
+        jar="D:\Android\MapGDDemo\app\libs\Volley.jar"
+        jumboMode="true"
+        revision="26.0.0"
+        sha1="77faa9ffd189160d1e22c58fdf5eed0a9a08b816">
+        <dex dex="D:\Android\MapGDDemo\app\build\intermediates\transforms\dex\debug\folders\1000\2\Volley_af798fbee0bb50cf432968c399725f5f04edbaa3\classes.dex" />
+    </item>
+
+</items>
